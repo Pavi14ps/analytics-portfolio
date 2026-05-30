@@ -49,18 +49,22 @@ Enables deeper exploration of customer service performance across different cate
 Dataset sourced from Kaggle and further modified, cleaned, and transformed to support business analysis and dashboard requirements.
 
 ## 🖼️ Dashboard Preview
-### Home
+### 🏠 Home
 ![Dashboard Home](amazon_home_page.png)
 
-### Overview
+### 📊 Overview
 ![Overview](amazon_overview.png)
 
-### Operational Performance
+### ⚙️ Operational Performance
 ![Operational Performance](amazon_operational_performance.png)
 
-### Breakdown Analysis
+### 🔍 Breakdown Analysis
 ![Breakdown Analysis](amazon_breakdown_analysis.png)
 
 ## 🔗 Live Dashboard
 
 https://public.tableau.com/views/AmazonCustomerServicePerformanceDashboard/Home
+
+## 🚀 Business Impact
+
+This dashboard enables stakeholders to monitor service efficiency, evaluate customer support effectiveness, and identify operational improvement opportunities through KPI-driven analysis.
