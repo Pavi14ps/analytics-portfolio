@@ -49,8 +49,17 @@ Enables deeper exploration of customer service performance across different cate
 Dataset sourced from Kaggle and further modified, cleaned, and transformed to support business analysis and dashboard requirements.
 
 ## 🖼️ Dashboard Preview
-
+### Home
 ![Dashboard Home](amazon_home_page.png)
+
+### Overview
+![Overview](amazon_overview.png)
+
+### Operational Performance
+![Operational Performance](amazon_operational_performance.png)
+
+### Breakdown Analysis
+![Breakdown Analysis](amazon_breakdown_analysis.png)
 
 ## 🔗 Live Dashboard
 
