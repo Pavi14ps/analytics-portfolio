@@ -61,10 +61,11 @@ Dataset sourced from Kaggle and further modified, cleaned, and transformed to su
 ### 🔍 Breakdown Analysis
 ![Breakdown Analysis](amazon_breakdown_analysis.png)
 
+## 🚀 Business Impact
+
+This dashboard enables stakeholders to monitor service efficiency, evaluate customer support effectiveness, and identify operational improvement opportunities through KPI-driven analysis.
+
 ## 🔗 Live Dashboard
 
 https://public.tableau.com/views/AmazonCustomerServicePerformanceDashboard/Home
 
-## 🚀 Business Impact
-
-This dashboard enables stakeholders to monitor service efficiency, evaluate customer support effectiveness, and identify operational improvement opportunities through KPI-driven analysis.
