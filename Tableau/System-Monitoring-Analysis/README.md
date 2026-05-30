@@ -69,7 +69,5 @@ This dashboard helps operations teams and decision-makers monitor system reliabi
 
 ## 🔗 Live Dashboard
 
-https://public.tableau.com/app/profile/pavithra.panneerselvam/viz/SystemMonitoringAnalysis/Dashboard1
-
 https://public.tableau.com/views/SystemMonitoringAnalysis/Dashboard1
 
