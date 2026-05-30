@@ -2,24 +2,51 @@
 
 ## 📌 Project Overview
 
-This dashboard provides insights into customer service operations by tracking key performance indicators, agent efficiency, and customer satisfaction metrics.
+Developed an interactive Tableau dashboard to analyze customer service operations and monitor key performance indicators across multiple dimensions. The dashboard enables stakeholders to evaluate service efficiency, identify operational bottlenecks, and improve customer support performance.
 
 ## 🎯 Business Objective
 
-To help stakeholders monitor service quality, identify performance trends, and improve customer experience through data-driven decision-making.
+To provide a centralized view of customer service performance and support data-driven decision-making by tracking ticket resolution efficiency, response effectiveness, and operational productivity.
 
 ## 🛠️ Tools Used
 
 - Tableau
 - Excel
+- Data Cleaning
+- Dashboard Design
+- KPI Analysis
 
 ## 📊 Dashboard Features
 
-- Interactive navigation tabs
-- KPI monitoring
-- Agent performance analysis
-- Customer satisfaction tracking
-- Operational insights
+## 🏠 Overview
+
+Provides a high-level summary of customer service performance metrics and operational health.
+
+## ⚙️ Operational Performance
+
+Analyzes service efficiency through response times, handling times, and ticket resolution metrics.
+
+## 🔍 Breakdown Analysis
+
+Enables deeper exploration of customer service performance across different categories and operational dimensions.
+
+## 📈 Key Performance Indicators (KPIs)
+- Total Tickets
+- Contacts Answered
+- Resolution Rate
+- Average Handling Time
+- Average Response Time
+
+## 💡 Key Insights Enabled
+- Monitor overall service performance trends
+- Identify opportunities to improve resolution efficiency
+- Track response and handling times
+- Evaluate customer support effectiveness
+- Support operational decision-making through KPI monitoring
+  
+## 📂 Dataset
+
+Dataset sourced from Kaggle and further modified, cleaned, and transformed to support business analysis and dashboard requirements.
 
 ## 🖼️ Dashboard Preview
 
