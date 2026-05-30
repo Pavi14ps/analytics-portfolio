@@ -23,7 +23,7 @@ To help stakeholders monitor service quality, identify performance trends, and i
 
 ## 🖼️ Dashboard Preview
 
-![Dashboard Home](amazon-home_page.png)
+![Dashboard Home](amazon_home_page.png)
 
 ## 🔗 Live Dashboard
 
